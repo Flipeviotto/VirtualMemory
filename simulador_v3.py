@@ -190,12 +190,12 @@ class MemoryManager:
     def remover_da_tlb(self, pagina):
         """Remove entradas da TLB."""
         # Remove todas as entradas da TLB para a página especificada
-
         self.tlb = [entrada for entrada in self.tlb if entrada['pagina'] != pagina]
 
     def ler_memoria(self, quadro, offset):
         """Lê o byte convertendo para signed."""
-        
+        # Lê o byte na posição especificada no quadro
+        # Se o byte for maior que 127, converte para signed
 
         byte_value = self.physical_memory[quadro][offset]
         return byte_value - 256 if byte_value > 127 else byte_value

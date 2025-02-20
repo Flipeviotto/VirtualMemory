@@ -1,0 +1,6 @@
+Para execultar o programa, escreva no terminal:
+python simulador_v3.py address.txt [num. quadros] [alg. de substitução]
+
+substitua
+[num. quadros] pelo numero de quadros desejados, 128 ou 256
+[alg. de substitução] pelo algoritmo de sut desejados, LRU ou FIFO
