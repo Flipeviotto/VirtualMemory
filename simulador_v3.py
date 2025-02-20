@@ -89,6 +89,8 @@ class MemoryManager:
 
     def buscar_na_tlb(self, pagina):
         """Procura a página na TLB."""
+        # Retorna o quadro se a página está na TLB, ou None caso contrário
+
         for entrada in self.tlb:
             if entrada['pagina'] == pagina:
                 return entrada['quadro']
@@ -96,17 +98,29 @@ class MemoryManager:
 
     def atualiza_tlb(self, pagina, quadro):
         """Atualiza a TLB."""
+        # Se a página já está na TLB, remove a entrada antiga
+        # Adiciona a nova entrada
+
         if len(self.tlb) >= self.tlb_size:
             self.tlb.pop(0)
         self.tlb.append({'pagina': pagina, 'quadro': quadro})
 
     def tratar_page_fault(self, pagina):
         """Trata o page fault."""
+        # Verifica se há um quadro livre
+            # Se houver
+                # pega indice do quadro livre
+                # carrega a página do BACKING_STORE
+                # insere a página na memória física no quadro livre
+                # insere a página no dicionário de quadros
+                # adiciona a página na fila (FIFO) ou dicionário de uso recente (LRU)
+                # retorna o quadro livre
+            # Se não houver
+                # chama a função de substituição
+
         if None in self.quadros:
             quadro = self.quadros.index(None)
             page_data = self.carrega_pagina(pagina)
-            print(f"page_data: {page_data}")
-            exit(1)
             self.physical_memory[quadro] = page_data
             self.quadros[quadro] = pagina
             if self.algoritmo == "FIFO":
@@ -125,6 +139,16 @@ class MemoryManager:
 
     def substituicao_fifo(self, pagina_nova):
         """Substituição FIFO."""
+        # Remove a página mais antiga da fila
+        # pega o quadro que será substituído
+        # altero a validade da página que será substituída para False
+        # removo a entrada da TLB
+        # carrego a nova página
+        # insiro a nova página na memoria fisica
+        # adiciono a nova pagina no dicionário de quadros
+        # adiciono a nova página na fila
+        # retorno o quadro
+
         pagina_a_substituir = self.fifo_queue.pop(0)
         quadro = self.page_table[pagina_a_substituir]['quadro']
         self.page_table[pagina_a_substituir]['valido'] = False
@@ -139,6 +163,17 @@ class MemoryManager:
 
     def substituicao_lru(self, pagina_nova):
         """Substituição LRU."""
+        # Pega a página menos recentemente usada
+        # pega o quadro que será substituído
+        # altero a validade da página que será substituída para False
+        # removo a pagina da entrada da TLB
+        # removo a página do dicionário de uso recente
+        # carrego a nova página
+        # insiro a nova página na memoria fisica
+        # adiciono a nova pagina no dicionário de quadros
+        # ajusto o tempo em que a nova página foi usada
+        # retorno o quadro
+
         pagina_a_substituir = min(self.uso_recente, key=self.uso_recente.get)
         quadro = self.page_table[pagina_a_substituir]['quadro']
         self.page_table[pagina_a_substituir]['valido'] = False
@@ -154,10 +189,14 @@ class MemoryManager:
 
     def remover_da_tlb(self, pagina):
         """Remove entradas da TLB."""
+        # Remove todas as entradas da TLB para a página especificada
+
         self.tlb = [entrada for entrada in self.tlb if entrada['pagina'] != pagina]
 
     def ler_memoria(self, quadro, offset):
         """Lê o byte convertendo para signed."""
+        
+
         byte_value = self.physical_memory[quadro][offset]
         return byte_value - 256 if byte_value > 127 else byte_value
 
@@ -248,7 +287,7 @@ def main():
         print(f"Arquivo {address_file} não encontrado.")
         sys.exit(1)
     
-    memoria.imprime_page_table()
+    #memoria.imprime_page_table()
     memoria.imprime_estatisticas()
     memoria.fechar_backing_store()
 

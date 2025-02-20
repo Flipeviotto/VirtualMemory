@@ -1,0 +1,1266 @@
+Endereço Virtual: 16916  Endereço Físico: 20 Conteúdo: 0
+Endereço Virtual: 62493  Endereço Físico: 285 Conteúdo: 0
+Endereço Virtual: 30198  Endereço Físico: 758 Conteúdo: 29
+Endereço Virtual: 53683  Endereço Físico: 947 Conteúdo: 108
+Endereço Virtual: 40185  Endereço Físico: 1273 Conteúdo: 0
+Endereço Virtual: 28781  Endereço Físico: 1389 Conteúdo: 0
+Endereço Virtual: 24462  Endereço Físico: 1678 Conteúdo: 23
+Endereço Virtual: 48399  Endereço Físico: 1807 Conteúdo: 67
+Endereço Virtual: 64815  Endereço Físico: 2095 Conteúdo: 75
+Endereço Virtual: 18295  Endereço Físico: 2423 Conteúdo: -35
+Endereço Virtual: 12218  Endereço Físico: 2746 Conteúdo: 11
+Endereço Virtual: 22760  Endereço Físico: 3048 Conteúdo: 0
+Endereço Virtual: 57982  Endereço Físico: 3198 Conteúdo: 56
+Endereço Virtual: 27966  Endereço Físico: 3390 Conteúdo: 27
+Endereço Virtual: 54894  Endereço Físico: 3694 Conteúdo: 53
+Endereço Virtual: 38929  Endereço Físico: 3857 Conteúdo: 0
+Endereço Virtual: 32865  Endereço Físico: 4193 Conteúdo: 0
+Endereço Virtual: 64243  Endereço Físico: 4595 Conteúdo: -68
+Endereço Virtual: 2315  Endereço Físico: 4619 Conteúdo: 66
+Endereço Virtual: 64454  Endereço Físico: 5062 Conteúdo: 62
+Endereço Virtual: 55041  Endereço Físico: 5121 Conteúdo: 0
+Endereço Virtual: 18633  Endereço Físico: 5577 Conteúdo: 0
+Endereço Virtual: 14557  Endereço Físico: 5853 Conteúdo: 0
+Endereço Virtual: 61006  Endereço Físico: 5966 Conteúdo: 59
+Endereço Virtual: 62615  Endereço Físico: 407 Conteúdo: 37
+Endereço Virtual: 7591  Endereço Físico: 6311 Conteúdo: 105
+Endereço Virtual: 64747  Endereço Físico: 6635 Conteúdo: 58
+Endereço Virtual: 6727  Endereço Físico: 6727 Conteúdo: -111
+Endereço Virtual: 32315  Endereço Físico: 6971 Conteúdo: -114
+Endereço Virtual: 60645  Endereço Físico: 7397 Conteúdo: 0
+Endereço Virtual: 6308  Endereço Físico: 7588 Conteúdo: 0
+Endereço Virtual: 45688  Endereço Físico: 7800 Conteúdo: 0
+Endereço Virtual: 969  Endereço Físico: 8137 Conteúdo: 0
+Endereço Virtual: 40891  Endereço Físico: 8379 Conteúdo: -18
+Endereço Virtual: 49294  Endereço Físico: 8590 Conteúdo: 48
+Endereço Virtual: 41118  Endereço Físico: 8862 Conteúdo: 40
+Endereço Virtual: 21395  Endereço Físico: 9107 Conteúdo: -28
+Endereço Virtual: 6091  Endereço Físico: 9419 Conteúdo: -14
+Endereço Virtual: 32541  Endereço Físico: 9501 Conteúdo: 0
+Endereço Virtual: 17665  Endereço Físico: 9729 Conteúdo: 0
+Endereço Virtual: 3784  Endereço Físico: 10184 Conteúdo: 0
+Endereço Virtual: 28718  Endereço Físico: 1326 Conteúdo: 28
+Endereço Virtual: 59240  Endereço Físico: 10344 Conteúdo: 0
+Endereço Virtual: 40178  Endereço Físico: 1266 Conteúdo: 39
+Endereço Virtual: 60086  Endereço Físico: 10678 Conteúdo: 58
+Endereço Virtual: 42252  Endereço Físico: 10764 Conteúdo: 0
+Endereço Virtual: 44770  Endereço Físico: 11234 Conteúdo: 43
+Endereço Virtual: 22514  Endereço Físico: 11506 Conteúdo: 21
+Endereço Virtual: 3067  Endereço Físico: 11771 Conteúdo: -2
+Endereço Virtual: 15757  Endereço Físico: 11917 Conteúdo: 0
+Endereço Virtual: 31649  Endereço Físico: 12193 Conteúdo: 0
+Endereço Virtual: 10842  Endereço Físico: 12378 Conteúdo: 10
+Endereço Virtual: 43765  Endereço Físico: 12789 Conteúdo: 0
+Endereço Virtual: 33405  Endereço Físico: 12925 Conteúdo: 0
+Endereço Virtual: 44954  Endereço Físico: 13210 Conteúdo: 43
+Endereço Virtual: 56657  Endereço Físico: 13393 Conteúdo: 0
+Endereço Virtual: 5003  Endereço Físico: 13707 Conteúdo: -30
+Endereço Virtual: 50227  Endereço Físico: 13875 Conteúdo: 12
+Endereço Virtual: 19358  Endereço Físico: 14238 Conteúdo: 18
+Endereço Virtual: 36529  Endereço Físico: 14513 Conteúdo: 0
+Endereço Virtual: 10392  Endereço Físico: 14744 Conteúdo: 0
+Endereço Virtual: 58882  Endereço Físico: 14850 Conteúdo: 57
+Endereço Virtual: 5129  Endereço Físico: 15113 Conteúdo: 0
+Endereço Virtual: 58554  Endereço Físico: 15546 Conteúdo: 57
+Endereço Virtual: 58584  Endereço Físico: 15576 Conteúdo: 0
+Endereço Virtual: 27444  Endereço Físico: 15668 Conteúdo: 0
+Endereço Virtual: 58982  Endereço Físico: 14950 Conteúdo: 57
+Endereço Virtual: 51476  Endereço Físico: 15892 Conteúdo: 0
+Endereço Virtual: 6796  Endereço Físico: 6796 Conteúdo: 0
+Endereço Virtual: 21311  Endereço Físico: 9023 Conteúdo: -49
+Endereço Virtual: 30705  Endereço Físico: 16369 Conteúdo: 0
+Endereço Virtual: 28964  Endereço Físico: 16420 Conteúdo: 0
+Endereço Virtual: 41003  Endereço Físico: 8747 Conteúdo: 10
+Endereço Virtual: 20259  Endereço Físico: 16675 Conteúdo: -56
+Endereço Virtual: 57857  Endereço Físico: 3073 Conteúdo: 0
+Endereço Virtual: 63258  Endereço Físico: 16922 Conteúdo: 61
+Endereço Virtual: 36374  Endereço Físico: 14358 Conteúdo: 35
+Endereço Virtual: 692  Endereço Físico: 17332 Conteúdo: 0
+Endereço Virtual: 43121  Endereço Físico: 17521 Conteúdo: 0
+Endereço Virtual: 48128  Endereço Físico: 17664 Conteúdo: 0
+Endereço Virtual: 34561  Endereço Físico: 17921 Conteúdo: 0
+Endereço Virtual: 49213  Endereço Físico: 8509 Conteúdo: 0
+Endereço Virtual: 36922  Endereço Físico: 18234 Conteúdo: 36
+Endereço Virtual: 59162  Endereço Físico: 10266 Conteúdo: 57
+Endereço Virtual: 50552  Endereço Físico: 18552 Conteúdo: 0
+Endereço Virtual: 17866  Endereço Físico: 9930 Conteúdo: 17
+Endereço Virtual: 18145  Endereço Físico: 18913 Conteúdo: 0
+Endereço Virtual: 3884  Endereço Físico: 18988 Conteúdo: 0
+Endereço Virtual: 54388  Endereço Físico: 19316 Conteúdo: 0
+Endereço Virtual: 42932  Endereço Físico: 19636 Conteúdo: 0
+Endereço Virtual: 46919  Endereço Físico: 19783 Conteúdo: -47
+Endereço Virtual: 58892  Endereço Físico: 14860 Conteúdo: 0
+Endereço Virtual: 8620  Endereço Físico: 20140 Conteúdo: 0
+Endereço Virtual: 38336  Endereço Físico: 20416 Conteúdo: 0
+Endereço Virtual: 64357  Endereço Físico: 4965 Conteúdo: 0
+Endereço Virtual: 23387  Endereço Físico: 20571 Conteúdo: -42
+Endereço Virtual: 42632  Endereço Físico: 20872 Conteúdo: 0
+Endereço Virtual: 15913  Endereço Físico: 21033 Conteúdo: 0
+Endereço Virtual: 15679  Endereço Físico: 11839 Conteúdo: 79
+Endereço Virtual: 22501  Endereço Físico: 11493 Conteúdo: 0
+Endereço Virtual: 37540  Endereço Físico: 21412 Conteúdo: 0
+Endereço Virtual: 5527  Endereço Físico: 21655 Conteúdo: 101
+Endereço Virtual: 63921  Endereço Físico: 21937 Conteúdo: 0
+Endereço Virtual: 62716  Endereço Físico: 508 Conteúdo: 0
+Endereço Virtual: 32874  Endereço Físico: 4202 Conteúdo: 32
+Endereço Virtual: 64390  Endereço Físico: 4998 Conteúdo: 62
+Endereço Virtual: 63101  Endereço Físico: 22141 Conteúdo: 0
+Endereço Virtual: 61802  Endereço Físico: 22378 Conteúdo: 60
+Endereço Virtual: 19648  Endereço Físico: 22720 Conteúdo: 0
+Endereço Virtual: 29031  Endereço Físico: 16487 Conteúdo: 89
+Endereço Virtual: 44981  Endereço Físico: 13237 Conteúdo: 0
+Endereço Virtual: 28092  Endereço Físico: 3516 Conteúdo: 0
+Endereço Virtual: 9448  Endereço Físico: 23016 Conteúdo: 0
+Endereço Virtual: 44744  Endereço Físico: 11208 Conteúdo: 0
+Endereço Virtual: 61496  Endereço Físico: 23096 Conteúdo: 0
+Endereço Virtual: 31453  Endereço Físico: 23517 Conteúdo: 0
+Endereço Virtual: 60746  Endereço Físico: 23626 Conteúdo: 59
+Endereço Virtual: 12199  Endereço Físico: 2727 Conteúdo: -23
+Endereço Virtual: 62255  Endereço Físico: 23855 Conteúdo: -53
+Endereço Virtual: 21793  Endereço Físico: 24097 Conteúdo: 0
+Endereço Virtual: 26544  Endereço Físico: 24496 Conteúdo: 0
+Endereço Virtual: 14964  Endereço Físico: 24692 Conteúdo: 0
+Endereço Virtual: 41462  Endereço Físico: 25078 Conteúdo: 40
+Endereço Virtual: 56089  Endereço Físico: 25113 Conteúdo: 0
+Endereço Virtual: 52038  Endereço Físico: 25414 Conteúdo: 50
+Endereço Virtual: 47982  Endereço Físico: 25710 Conteúdo: 46
+Endereço Virtual: 59484  Endereço Físico: 25948 Conteúdo: 0
+Endereço Virtual: 50924  Endereço Físico: 26348 Conteúdo: 0
+Endereço Virtual: 6942  Endereço Físico: 26398 Conteúdo: 6
+Endereço Virtual: 34998  Endereço Físico: 26806 Conteúdo: 34
+Endereço Virtual: 27069  Endereço Físico: 27069 Conteúdo: 0
+Endereço Virtual: 51926  Endereço Físico: 27350 Conteúdo: 50
+Endereço Virtual: 60645  Endereço Físico: 7397 Conteúdo: 0
+Endereço Virtual: 43181  Endereço Físico: 17581 Conteúdo: 0
+Endereço Virtual: 10559  Endereço Físico: 27455 Conteúdo: 79
+Endereço Virtual: 4664  Endereço Físico: 27704 Conteúdo: 0
+Endereço Virtual: 28578  Endereço Físico: 28066 Conteúdo: 27
+Endereço Virtual: 59516  Endereço Físico: 25980 Conteúdo: 0
+Endereço Virtual: 38912  Endereço Físico: 3840 Conteúdo: 0
+Endereço Virtual: 63562  Endereço Físico: 28234 Conteúdo: 62
+Endereço Virtual: 64846  Endereço Físico: 2126 Conteúdo: 63
+Endereço Virtual: 62938  Endereço Físico: 28634 Conteúdo: 61
+Endereço Virtual: 27194  Endereço Físico: 28730 Conteúdo: 26
+Endereço Virtual: 28804  Endereço Físico: 1412 Conteúdo: 0
+Endereço Virtual: 61703  Endereço Físico: 22279 Conteúdo: 65
+Endereço Virtual: 10998  Endereço Físico: 12534 Conteúdo: 10
+Endereço Virtual: 6596  Endereço Físico: 29124 Conteúdo: 0
+Endereço Virtual: 37721  Endereço Físico: 29273 Conteúdo: 0
+Endereço Virtual: 43430  Endereço Físico: 29606 Conteúdo: 42
+Endereço Virtual: 22692  Endereço Físico: 2980 Conteúdo: 0
+Endereço Virtual: 62971  Endereço Físico: 28667 Conteúdo: 126
+Endereço Virtual: 47125  Endereço Físico: 29717 Conteúdo: 0
+Endereço Virtual: 52521  Endereço Físico: 29993 Conteúdo: 0
+Endereço Virtual: 34646  Endereço Físico: 18006 Conteúdo: 33
+Endereço Virtual: 32889  Endereço Físico: 4217 Conteúdo: 0
+Endereço Virtual: 13055  Endereço Físico: 30463 Conteúdo: -65
+Endereço Virtual: 65416  Endereço Físico: 30600 Conteúdo: 0
+Endereço Virtual: 62869  Endereço Físico: 28565 Conteúdo: 0
+Endereço Virtual: 57314  Endereço Físico: 30946 Conteúdo: 55
+Endereço Virtual: 12659  Endereço Físico: 31091 Conteúdo: 92
+Endereço Virtual: 14052  Endereço Físico: 31460 Conteúdo: 0
+Endereço Virtual: 32956  Endereço Físico: 4284 Conteúdo: 0
+Endereço Virtual: 49273  Endereço Físico: 8569 Conteúdo: 0
+Endereço Virtual: 50352  Endereço Físico: 14000 Conteúdo: 0
+Endereço Virtual: 49737  Endereço Físico: 31561 Conteúdo: 0
+Endereço Virtual: 15555  Endereço Físico: 31939 Conteúdo: 48
+Endereço Virtual: 47475  Endereço Físico: 32115 Conteúdo: 92
+Endereço Virtual: 15328  Endereço Físico: 32480 Conteúdo: 0
+Endereço Virtual: 34621  Endereço Físico: 17981 Conteúdo: 0
+Endereço Virtual: 51365  Endereço Físico: 32677 Conteúdo: 0
+Endereço Virtual: 32820  Endereço Físico: 4148 Conteúdo: 0
+Endereço Virtual: 48855  Endereço Físico: 215 Conteúdo: -75
+Endereço Virtual: 12224  Endereço Físico: 2752 Conteúdo: 0
+Endereço Virtual: 2035  Endereço Físico: 755 Conteúdo: -4
+Endereço Virtual: 60539  Endereço Físico: 7291 Conteúdo: 30
+Endereço Virtual: 14595  Endereço Físico: 771 Conteúdo: 64
+Endereço Virtual: 13853  Endereço Físico: 31261 Conteúdo: 0
+Endereço Virtual: 24143  Endereço Físico: 1615 Conteúdo: -109
+Endereço Virtual: 15216  Endereço Físico: 32368 Conteúdo: 0
+Endereço Virtual: 8113  Endereço Físico: 1969 Conteúdo: 0
+Endereço Virtual: 22640  Endereço Físico: 2928 Conteúdo: 0
+Endereço Virtual: 32978  Endereço Físico: 4306 Conteúdo: 32
+Endereço Virtual: 39151  Endereço Físico: 4079 Conteúdo: 59
+Endereço Virtual: 19520  Endereço Físico: 22592 Conteúdo: 0
+Endereço Virtual: 58141  Endereço Físico: 2333 Conteúdo: 0
+Endereço Virtual: 63959  Endereço Físico: 21975 Conteúdo: 117
+Endereço Virtual: 53040  Endereço Físico: 3632 Conteúdo: 0
+Endereço Virtual: 55842  Endereço Físico: 4386 Conteúdo: 54
+Endereço Virtual: 585  Endereço Físico: 17225 Conteúdo: 0
+Endereço Virtual: 51229  Endereço Físico: 32541 Conteúdo: 0
+Endereço Virtual: 64181  Endereço Físico: 4789 Conteúdo: 0
+Endereço Virtual: 54879  Endereço Físico: 5215 Conteúdo: -105
+Endereço Virtual: 28210  Endereço Físico: 5426 Conteúdo: 27
+Endereço Virtual: 10268  Endereço Físico: 14620 Conteúdo: 0
+Endereço Virtual: 15395  Endereço Físico: 31779 Conteúdo: 8
+Endereço Virtual: 12884  Endereço Físico: 30292 Conteúdo: 0
+Endereço Virtual: 2149  Endereço Físico: 5733 Conteúdo: 0
+Endereço Virtual: 53483  Endereço Físico: 6123 Conteúdo: 58
+Endereço Virtual: 59606  Endereço Físico: 26070 Conteúdo: 58
+Endereço Virtual: 14981  Endereço Físico: 24709 Conteúdo: 0
+Endereço Virtual: 36672  Endereço Físico: 6208 Conteúdo: 0
+Endereço Virtual: 23197  Endereço Físico: 6557 Conteúdo: 0
+Endereço Virtual: 36518  Endereço Físico: 14502 Conteúdo: 35
+Endereço Virtual: 13361  Endereço Físico: 6961 Conteúdo: 0
+Endereço Virtual: 19810  Endereço Físico: 7522 Conteúdo: 19
+Endereço Virtual: 25955  Endereço Físico: 7779 Conteúdo: 88
+Endereço Virtual: 62678  Endereço Físico: 470 Conteúdo: 61
+Endereço Virtual: 26021  Endereço Físico: 7845 Conteúdo: 0
+Endereço Virtual: 29409  Endereço Físico: 8161 Conteúdo: 0
+Endereço Virtual: 38111  Endereço Físico: 8415 Conteúdo: 55
+Endereço Virtual: 58573  Endereço Físico: 15565 Conteúdo: 0
+Endereço Virtual: 56840  Endereço Físico: 9224 Conteúdo: 0
+Endereço Virtual: 41306  Endereço Físico: 24922 Conteúdo: 40
+Endereço Virtual: 54426  Endereço Físico: 19354 Conteúdo: 53
+Endereço Virtual: 3617  Endereço Físico: 10017 Conteúdo: 0
+Endereço Virtual: 50652  Endereço Físico: 18652 Conteúdo: 0
+Endereço Virtual: 41452  Endereço Físico: 25068 Conteúdo: 0
+Endereço Virtual: 20241  Endereço Físico: 16657 Conteúdo: 0
+Endereço Virtual: 31723  Endereço Físico: 12267 Conteúdo: -6
+Endereço Virtual: 53747  Endereço Físico: 9715 Conteúdo: 124
+Endereço Virtual: 28550  Endereço Físico: 28038 Conteúdo: 27
+Endereço Virtual: 23402  Endereço Físico: 20586 Conteúdo: 22
+Endereço Virtual: 21205  Endereço Físico: 1237 Conteúdo: 0
+Endereço Virtual: 56181  Endereço Físico: 25205 Conteúdo: 0
+Endereço Virtual: 57470  Endereço Físico: 10622 Conteúdo: 56
+Endereço Virtual: 39933  Endereço Físico: 11005 Conteúdo: 0
+Endereço Virtual: 34964  Endereço Físico: 26772 Conteúdo: 0
+Endereço Virtual: 24781  Endereço Físico: 11725 Conteúdo: 0
+Endereço Virtual: 41747  Endereço Físico: 12563 Conteúdo: -60
+Endereço Virtual: 62564  Endereço Físico: 356 Conteúdo: 0
+Endereço Virtual: 58461  Endereço Físico: 15453 Conteúdo: 0
+Endereço Virtual: 20858  Endereço Físico: 12922 Conteúdo: 20
+Endereço Virtual: 49301  Endereço Físico: 8597 Conteúdo: 0
+Endereço Virtual: 40572  Endereço Físico: 13436 Conteúdo: 0
+Endereço Virtual: 23840  Endereço Físico: 13600 Conteúdo: 0
+Endereço Virtual: 35278  Endereço Físico: 14286 Conteúdo: 34
+Endereço Virtual: 62905  Endereço Físico: 28601 Conteúdo: 0
+Endereço Virtual: 56650  Endereço Físico: 15178 Conteúdo: 55
+Endereço Virtual: 11149  Endereço Físico: 15757 Conteúdo: 0
+Endereço Virtual: 38920  Endereço Físico: 3848 Conteúdo: 0
+Endereço Virtual: 23430  Endereço Físico: 20614 Conteúdo: 22
+Endereço Virtual: 57592  Endereço Físico: 10744 Conteúdo: 0
+Endereço Virtual: 3080  Endereço Físico: 15880 Conteúdo: 0
+Endereço Virtual: 6677  Endereço Físico: 6677 Conteúdo: 0
+Endereço Virtual: 50704  Endereço Físico: 26128 Conteúdo: 0
+Endereço Virtual: 51883  Endereço Físico: 27307 Conteúdo: -86
+Endereço Virtual: 62799  Endereço Físico: 28495 Conteúdo: 83
+Endereço Virtual: 20188  Endereço Físico: 9180 Conteúdo: 0
+Endereço Virtual: 1245  Endereço Físico: 16349 Conteúdo: 0
+Endereço Virtual: 12220  Endereço Físico: 2748 Conteúdo: 0
+Endereço Virtual: 17602  Endereço Físico: 8898 Conteúdo: 17
+Endereço Virtual: 28609  Endereço Físico: 28097 Conteúdo: 0
+Endereço Virtual: 42694  Endereço Físico: 20934 Conteúdo: 41
+Endereço Virtual: 29826  Endereço Físico: 3202 Conteúdo: 29
+Endereço Virtual: 13827  Endereço Físico: 31235 Conteúdo: -128
+Endereço Virtual: 27336  Endereço Físico: 28872 Conteúdo: 0
+Endereço Virtual: 53343  Endereço Físico: 5983 Conteúdo: 23
+Endereço Virtual: 11533  Endereço Físico: 16909 Conteúdo: 0
+Endereço Virtual: 41713  Endereço Físico: 17905 Conteúdo: 0
+Endereço Virtual: 33890  Endereço Físico: 18274 Conteúdo: 33
+Endereço Virtual: 4894  Endereço Físico: 10270 Conteúdo: 4
+Endereço Virtual: 57599  Endereço Físico: 10751 Conteúdo: 63
+Endereço Virtual: 3870  Endereço Físico: 18974 Conteúdo: 3
+Endereço Virtual: 58622  Endereço Físico: 15614 Conteúdo: 57
+Endereço Virtual: 29780  Endereço Físico: 3156 Conteúdo: 0
+Endereço Virtual: 62553  Endereço Físico: 345 Conteúdo: 0
+Endereço Virtual: 2303  Endereço Físico: 5887 Conteúdo: 63
+Endereço Virtual: 51915  Endereço Físico: 27339 Conteúdo: -78
+Endereço Virtual: 6251  Endereço Físico: 9835 Conteúdo: 26
+Endereço Virtual: 38107  Endereço Físico: 8411 Conteúdo: 54
+Endereço Virtual: 59325  Endereço Físico: 18877 Conteúdo: 0
+Endereço Virtual: 61295  Endereço Físico: 19567 Conteúdo: -37
+Endereço Virtual: 26699  Endereço Físico: 19787 Conteúdo: 18
+Endereço Virtual: 51188  Endereço Físico: 15092 Conteúdo: 0
+Endereço Virtual: 59519  Endereço Físico: 25983 Conteúdo: 31
+Endereço Virtual: 7345  Endereço Físico: 20145 Conteúdo: 0
+Endereço Virtual: 20325  Endereço Físico: 16741 Conteúdo: 0
+Endereço Virtual: 39633  Endereço Físico: 20433 Conteúdo: 0
+Endereço Virtual: 1562  Endereço Físico: 21018 Conteúdo: 1
+Endereço Virtual: 7580  Endereço Físico: 11932 Conteúdo: 0
+Endereço Virtual: 8170  Endereço Físico: 2026 Conteúdo: 7
+Endereço Virtual: 62256  Endereço Físico: 23856 Conteúdo: 0
+Endereço Virtual: 35823  Endereço Físico: 11503 Conteúdo: -5
+Endereço Virtual: 27790  Endereço Físico: 21390 Conteúdo: 27
+Endereço Virtual: 13191  Endereço Físico: 21639 Conteúdo: -31
+Endereço Virtual: 9772  Endereço Físico: 4908 Conteúdo: 0
+Endereço Virtual: 7477  Endereço Físico: 11829 Conteúdo: 0
+Endereço Virtual: 44455  Endereço Físico: 22183 Conteúdo: 105
+Endereço Virtual: 59546  Endereço Físico: 26010 Conteúdo: 58
+Endereço Virtual: 49347  Endereço Físico: 8643 Conteúdo: 48
+Endereço Virtual: 36539  Endereço Físico: 14523 Conteúdo: -82
+Endereço Virtual: 12453  Endereço Físico: 16549 Conteúdo: 0
+Endereço Virtual: 49640  Endereço Físico: 13288 Conteúdo: 0
+Endereço Virtual: 28290  Endereço Físico: 5506 Conteúdo: 27
+Endereço Virtual: 44817  Endereço Físico: 3345 Conteúdo: 0
+Endereço Virtual: 8565  Endereço Físico: 22901 Conteúdo: 0
+Endereço Virtual: 16399  Endereço Físico: 11023 Conteúdo: 3
+Endereço Virtual: 41934  Endereço Físico: 12750 Conteúdo: 40
+Endereço Virtual: 45457  Endereço Físico: 23185 Conteúdo: 0
+Endereço Virtual: 33856  Endereço Físico: 18240 Conteúdo: 0
+Endereço Virtual: 19498  Endereço Físico: 22570 Conteúdo: 19
+Endereço Virtual: 17661  Endereço Físico: 8957 Conteúdo: 0
+Endereço Virtual: 63829  Endereço Físico: 21845 Conteúdo: 0
+Endereço Virtual: 42034  Endereço Físico: 23346 Conteúdo: 41
+Endereço Virtual: 28928  Endereço Físico: 23552 Conteúdo: 0
+Endereço Virtual: 30711  Endereço Físico: 24311 Conteúdo: -3
+Endereço Virtual: 8800  Endereço Físico: 24416 Conteúdo: 0
+Endereço Virtual: 52335  Endereço Físico: 25455 Conteúdo: 27
+Endereço Virtual: 38775  Endereço Físico: 25719 Conteúdo: -35
+Endereço Virtual: 52704  Endereço Físico: 30176 Conteúdo: 0
+Endereço Virtual: 24380  Endereço Físico: 26428 Conteúdo: 0
+Endereço Virtual: 19602  Endereço Físico: 22674 Conteúdo: 19
+Endereço Virtual: 57998  Endereço Físico: 27022 Conteúdo: 56
+Endereço Virtual: 2919  Endereço Físico: 17511 Conteúdo: -39
+Endereço Virtual: 8362  Endereço Físico: 27562 Conteúdo: 8
+Endereço Virtual: 17884  Endereço Físico: 27868 Conteúdo: 0
+Endereço Virtual: 45737  Endereço Físico: 28329 Conteúdo: 0
+Endereço Virtual: 47894  Endereço Físico: 2070 Conteúdo: 46
+Endereço Virtual: 59667  Endereço Físico: 1299 Conteúdo: 68
+Endereço Virtual: 10385  Endereço Físico: 14737 Conteúdo: 0
+Endereço Virtual: 52782  Endereço Físico: 22318 Conteúdo: 51
+Endereço Virtual: 64416  Endereço Físico: 12448 Conteúdo: 0
+Endereço Virtual: 40946  Endereço Físico: 29170 Conteúdo: 39
+Endereço Virtual: 16778  Endereço Físico: 29322 Conteúdo: 16
+Endereço Virtual: 27159  Endereço Físico: 28695 Conteúdo: -123
+Endereço Virtual: 24324  Endereço Físico: 26372 Conteúdo: 0
+Endereço Virtual: 32450  Endereço Físico: 29634 Conteúdo: 31
+Endereço Virtual: 9108  Endereço Físico: 29844 Conteúdo: 0
+Endereço Virtual: 65305  Endereço Físico: 30489 Conteúdo: 0
+Endereço Virtual: 19575  Endereço Físico: 22647 Conteúdo: 29
+Endereço Virtual: 11117  Endereço Físico: 15725 Conteúdo: 0
+Endereço Virtual: 65170  Endereço Físico: 30866 Conteúdo: 63
+Endereço Virtual: 58013  Endereço Físico: 27037 Conteúdo: 0
+Endereço Virtual: 61676  Endereço Físico: 31212 Conteúdo: 0
+Endereço Virtual: 63510  Endereço Físico: 13846 Conteúdo: 62
+Endereço Virtual: 17458  Endereço Físico: 8754 Conteúdo: 17
+Endereço Virtual: 54675  Endereço Físico: 31635 Conteúdo: 100
+Endereço Virtual: 1713  Endereço Físico: 21169 Conteúdo: 0
+Endereço Virtual: 55105  Endereço Físico: 32065 Conteúdo: 0
+Endereço Virtual: 65321  Endereço Físico: 30505 Conteúdo: 0
+Endereço Virtual: 45278  Endereço Físico: 18142 Conteúdo: 44
+Endereço Virtual: 26256  Endereço Físico: 144 Conteúdo: 0
+Endereço Virtual: 64198  Endereço Físico: 4806 Conteúdo: 62
+Endereço Virtual: 29441  Endereço Físico: 513 Conteúdo: 0
+Endereço Virtual: 1928  Endereço Físico: 7304 Conteúdo: 0
+Endereço Virtual: 39425  Endereço Físico: 20225 Conteúdo: 0
+Endereço Virtual: 32000  Endereço Físico: 768 Conteúdo: 0
+Endereço Virtual: 28549  Endereço Físico: 28037 Conteúdo: 0
+Endereço Virtual: 46295  Endereço Físico: 1751 Conteúdo: 53
+Endereço Virtual: 22772  Endereço Físico: 3060 Conteúdo: 0
+Endereço Virtual: 58228  Endereço Físico: 2420 Conteúdo: 0
+Endereço Virtual: 63525  Endereço Físico: 13861 Conteúdo: 0
+Endereço Virtual: 32602  Endereço Físico: 32346 Conteúdo: 31
+Endereço Virtual: 46195  Endereço Físico: 1651 Conteúdo: 28
+Endereço Virtual: 55849  Endereço Físico: 4393 Conteúdo: 0
+Endereço Virtual: 46454  Endereço Físico: 4214 Conteúdo: 45
+Endereço Virtual: 7487  Endereço Físico: 11839 Conteúdo: 79
+Endereço Virtual: 33879  Endereço Físico: 18263 Conteúdo: 21
+Endereço Virtual: 42004  Endereço Físico: 23316 Conteúdo: 0
+Endereço Virtual: 8599  Endereço Físico: 22935 Conteúdo: 101
+Endereço Virtual: 18641  Endereço Físico: 3793 Conteúdo: 0
+Endereço Virtual: 49015  Endereço Físico: 17271 Conteúdo: -35
+Endereço Virtual: 26830  Endereço Físico: 19918 Conteúdo: 26
+Endereço Virtual: 34754  Endereço Físico: 32706 Conteúdo: 33
+Endereço Virtual: 14668  Endereço Físico: 5196 Conteúdo: 0
+Endereço Virtual: 38362  Endereço Físico: 31962 Conteúdo: 37
+Endereço Virtual: 38791  Endereço Físico: 25735 Conteúdo: -31
+Endereço Virtual: 4171  Endereço Físico: 30283 Conteúdo: 18
+Endereço Virtual: 45975  Endereço Físico: 24727 Conteúdo: -27
+Endereço Virtual: 14623  Endereço Físico: 5151 Conteúdo: 71
+Endereço Virtual: 62393  Endereço Físico: 23993 Conteúdo: 0
+Endereço Virtual: 64658  Endereço Físico: 6290 Conteúdo: 63
+Endereço Virtual: 10963  Endereço Físico: 6611 Conteúdo: -76
+Endereço Virtual: 9058  Endereço Físico: 29794 Conteúdo: 8
+Endereço Virtual: 51031  Endereço Físico: 14935 Conteúdo: -43
+Endereço Virtual: 32425  Endereço Físico: 29609 Conteúdo: 0
+Endereço Virtual: 45483  Endereço Físico: 23211 Conteúdo: 106
+Endereço Virtual: 44611  Endereço Físico: 6979 Conteúdo: -112
+Endereço Virtual: 63664  Endereço Físico: 14000 Conteúdo: 0
+Endereço Virtual: 54920  Endereço Físico: 7560 Conteúdo: 0
+Endereço Virtual: 7663  Endereço Físico: 12015 Conteúdo: 123
+Endereço Virtual: 56480  Endereço Físico: 7840 Conteúdo: 0
+Endereço Virtual: 1489  Endereço Físico: 8145 Conteúdo: 0
+Endereço Virtual: 28438  Endereço Físico: 27926 Conteúdo: 27
+Endereço Virtual: 65449  Endereço Físico: 30633 Conteúdo: 0
+Endereço Virtual: 12441  Endereço Físico: 16537 Conteúdo: 0
+Endereço Virtual: 58530  Endereço Físico: 15522 Conteúdo: 57
+Endereço Virtual: 63570  Endereço Físico: 13906 Conteúdo: 62
+Endereço Virtual: 26251  Endereço Físico: 139 Conteúdo: -94
+Endereço Virtual: 15972  Endereço Físico: 9316 Conteúdo: 0
+Endereço Virtual: 35826  Endereço Físico: 11506 Conteúdo: 34
+Endereço Virtual: 5491  Endereço Físico: 19315 Conteúdo: 92
+Endereço Virtual: 54253  Endereço Físico: 10221 Conteúdo: 0
+Endereço Virtual: 49655  Endereço Físico: 13303 Conteúdo: 125
+Endereço Virtual: 5868  Endereço Físico: 18668 Conteúdo: 0
+Endereço Virtual: 20163  Endereço Físico: 9155 Conteúdo: -80
+Endereço Virtual: 51079  Endereço Físico: 14983 Conteúdo: -31
+Endereço Virtual: 21398  Endereço Físico: 24982 Conteúdo: 20
+Endereço Virtual: 32756  Endereço Físico: 32500 Conteúdo: 0
+Endereço Virtual: 64196  Endereço Físico: 4804 Conteúdo: 0
+Endereço Virtual: 43218  Endereço Físico: 12242 Conteúdo: 42
+Endereço Virtual: 21583  Endereço Físico: 9551 Conteúdo: 19
+Endereço Virtual: 25086  Endereço Físico: 1278 Conteúdo: 24
+Endereço Virtual: 45515  Endereço Físico: 23243 Conteúdo: 114
+Endereço Virtual: 12893  Endereço Físico: 25181 Conteúdo: 0
+Endereço Virtual: 22914  Endereço Físico: 10882 Conteúdo: 22
+Endereço Virtual: 58969  Endereço Físico: 26713 Conteúdo: 0
+Endereço Virtual: 20094  Endereço Físico: 9086 Conteúdo: 19
+Endereço Virtual: 13730  Endereço Físico: 11682 Conteúdo: 13
+Endereço Virtual: 44059  Endereço Físico: 12827 Conteúdo: 6
+Endereço Virtual: 28931  Endereço Físico: 23555 Conteúdo: 64
+Endereço Virtual: 13533  Endereço Físico: 13533 Conteúdo: 0
+Endereço Virtual: 33134  Endereço Físico: 13678 Conteúdo: 32
+Endereço Virtual: 28483  Endereço Físico: 27971 Conteúdo: -48
+Endereço Virtual: 1220  Endereço Físico: 16324 Conteúdo: 0
+Endereço Virtual: 38174  Endereço Físico: 31774 Conteúdo: 37
+Endereço Virtual: 53502  Endereço Físico: 6142 Conteúdo: 52
+Endereço Virtual: 43328  Endereço Físico: 14144 Conteúdo: 0
+Endereço Virtual: 4970  Endereço Físico: 10346 Conteúdo: 4
+Endereço Virtual: 8090  Endereço Físico: 1946 Conteúdo: 7
+Endereço Virtual: 2661  Endereço Físico: 15205 Conteúdo: 0
+Endereço Virtual: 53903  Endereço Físico: 3983 Conteúdo: -93
+Endereço Virtual: 11025  Endereço Físico: 15633 Conteúdo: 0
+Endereço Virtual: 26627  Endereço Físico: 19715 Conteúdo: 0
+Endereço Virtual: 18117  Endereço Físico: 20677 Conteúdo: 0
+Endereço Virtual: 14505  Endereço Físico: 16041 Conteúdo: 0
+Endereço Virtual: 61528  Endereço Físico: 31064 Conteúdo: 0
+Endereço Virtual: 20423  Endereço Físico: 16839 Conteúdo: -15
+Endereço Virtual: 26962  Endereço Físico: 6738 Conteúdo: 26
+Endereço Virtual: 36392  Endereço Físico: 14376 Conteúdo: 0
+Endereço Virtual: 11365  Endereço Físico: 26213 Conteúdo: 0
+Endereço Virtual: 50882  Endereço Físico: 28610 Conteúdo: 49
+Endereço Virtual: 41668  Endereço Físico: 17860 Conteúdo: 0
+Endereço Virtual: 30497  Endereço Físico: 24097 Conteúdo: 0
+Endereço Virtual: 36216  Endereço Físico: 2680 Conteúdo: 0
+Endereço Virtual: 5619  Endereço Físico: 19443 Conteúdo: 124
+Endereço Virtual: 36983  Endereço Físico: 20855 Conteúdo: 29
+Endereço Virtual: 59557  Endereço Físico: 26021 Conteúdo: 0
+Endereço Virtual: 36663  Endereço Físico: 31287 Conteúdo: -51
+Endereço Virtual: 36436  Endereço Físico: 14420 Conteúdo: 0
+Endereço Virtual: 37057  Endereço Físico: 20929 Conteúdo: 0
+Endereço Virtual: 23585  Endereço Físico: 16929 Conteúdo: 0
+Endereço Virtual: 58791  Endereço Físico: 10663 Conteúdo: 105
+Endereço Virtual: 46666  Endereço Físico: 19018 Conteúdo: 45
+Endereço Virtual: 64475  Endereço Físico: 12507 Conteúdo: -10
+Endereço Virtual: 21615  Endereço Físico: 9583 Conteúdo: 27
+Endereço Virtual: 41090  Endereço Físico: 3202 Conteúdo: 40
+Endereço Virtual: 1771  Endereço Físico: 21227 Conteúdo: -70
+Endereço Virtual: 47513  Endereço Físico: 409 Conteúdo: 0
+Endereço Virtual: 39338  Endereço Físico: 5802 Conteúdo: 38
+Endereço Virtual: 1390  Endereço Físico: 8046 Conteúdo: 1
+Endereço Virtual: 38772  Endereço Físico: 25716 Conteúdo: 0
+Endereço Virtual: 58149  Endereço Físico: 2341 Conteúdo: 0
+Endereço Virtual: 7196  Endereço Físico: 19996 Conteúdo: 0
+Endereço Virtual: 9123  Endereço Físico: 29859 Conteúdo: -24
+Endereço Virtual: 7491  Endereço Físico: 11843 Conteúdo: 80
+Endereço Virtual: 62616  Endereço Físico: 27288 Conteúdo: 0
+Endereço Virtual: 15436  Endereço Físico: 9804 Conteúdo: 0
+Endereço Virtual: 17491  Endereço Físico: 8787 Conteúdo: 20
+Endereço Virtual: 53656  Endereço Físico: 8344 Conteúdo: 0
+Endereço Virtual: 26449  Endereço Físico: 18769 Conteúdo: 0
+Endereço Virtual: 34935  Endereço Físico: 19575 Conteúdo: 29
+Endereço Virtual: 19864  Endereço Físico: 21400 Conteúdo: 0
+Endereço Virtual: 51388  Endereço Físico: 21692 Conteúdo: 0
+Endereço Virtual: 15155  Endereço Físico: 4915 Conteúdo: -52
+Endereço Virtual: 64775  Endereço Físico: 22023 Conteúdo: 65
+Endereço Virtual: 47969  Endereço Físico: 2145 Conteúdo: 0
+Endereço Virtual: 16315  Endereço Físico: 8635 Conteúdo: -18
+Endereço Virtual: 1342  Endereço Físico: 7998 Conteúdo: 1
+Endereço Virtual: 51185  Endereço Físico: 15089 Conteúdo: 0
+Endereço Virtual: 6043  Endereço Físico: 5531 Conteúdo: -26
+Endereço Virtual: 21398  Endereço Físico: 24982 Conteúdo: 20
+Endereço Virtual: 3273  Endereço Físico: 3529 Conteúdo: 0
+Endereço Virtual: 9370  Endereço Físico: 11162 Conteúdo: 9
+Endereço Virtual: 35463  Endereço Físico: 12679 Conteúdo: -95
+Endereço Virtual: 28205  Endereço Físico: 21805 Conteúdo: 0
+Endereço Virtual: 2351  Endereço Físico: 24367 Conteúdo: 75
+Endereço Virtual: 28999  Endereço Físico: 23623 Conteúdo: 81
+Endereço Virtual: 47699  Endereço Físico: 25427 Conteúdo: -108
+Endereço Virtual: 46870  Endereço Físico: 29974 Conteúdo: 45
+Endereço Virtual: 22311  Endereço Físico: 17447 Conteúdo: -55
+Endereço Virtual: 22124  Endereço Físico: 27500 Conteúdo: 0
+Endereço Virtual: 22427  Endereço Físico: 17563 Conteúdo: -26
+Endereço Virtual: 49344  Endereço Físico: 27840 Conteúdo: 0
+Endereço Virtual: 23224  Endereço Físico: 28344 Conteúdo: 0
+Endereço Virtual: 5514  Endereço Físico: 19338 Conteúdo: 5
+Endereço Virtual: 20504  Endereço Físico: 1304 Conteúdo: 0
+Endereço Virtual: 376  Endereço Físico: 14712 Conteúdo: 0
+Endereço Virtual: 2014  Endereço Físico: 7390 Conteúdo: 1
+Endereço Virtual: 38700  Endereço Físico: 25644 Conteúdo: 0
+Endereço Virtual: 13098  Endereço Físico: 22314 Conteúdo: 12
+Endereço Virtual: 62435  Endereço Físico: 24035 Conteúdo: -8
+Endereço Virtual: 48046  Endereço Físico: 2222 Conteúdo: 46
+Endereço Virtual: 63464  Endereço Físico: 29160 Conteúdo: 0
+Endereço Virtual: 12798  Endereço Físico: 29438 Conteúdo: 12
+Endereço Virtual: 51178  Endereço Físico: 15082 Conteúdo: 49
+Endereço Virtual: 8627  Endereço Físico: 22963 Conteúdo: 108
+Endereço Virtual: 27083  Endereço Físico: 6859 Conteúdo: 114
+Endereço Virtual: 47198  Endereço Físico: 28766 Conteúdo: 46
+Endereço Virtual: 44021  Endereço Físico: 26613 Conteúdo: 0
+Endereço Virtual: 32792  Endereço Físico: 22552 Conteúdo: 0
+Endereço Virtual: 43996  Endereço Físico: 26588 Conteúdo: 0
+Endereço Virtual: 41126  Endereço Físico: 3238 Conteúdo: 40
+Endereço Virtual: 64244  Endereço Físico: 4852 Conteúdo: 0
+Endereço Virtual: 37047  Endereço Físico: 20919 Conteúdo: 45
+Endereço Virtual: 60281  Endereço Físico: 30841 Conteúdo: 0
+Endereço Virtual: 52904  Endereço Físico: 27048 Conteúdo: 0
+Endereço Virtual: 7768  Endereço Físico: 31576 Conteúdo: 0
+Endereço Virtual: 55359  Endereço Físico: 32063 Conteúdo: 15
+Endereço Virtual: 3230  Endereço Físico: 3486 Conteúdo: 3
+Endereço Virtual: 44813  Endereço Físico: 17933 Conteúdo: 0
+Endereço Virtual: 4116  Endereço Físico: 30228 Conteúdo: 0
+Endereço Virtual: 65222  Endereço Físico: 710 Conteúdo: 63
+Endereço Virtual: 28083  Endereço Físico: 20403 Conteúdo: 108
+Endereço Virtual: 60660  Endereço Físico: 1012 Conteúdo: 0
+Endereço Virtual: 39  Endereço Físico: 2855 Conteúdo: 9
+Endereço Virtual: 328  Endereço Físico: 14664 Conteúdo: 0
+Endereço Virtual: 47868  Endereço Físico: 25596 Conteúdo: 0
+Endereço Virtual: 13009  Endereço Físico: 25297 Conteúdo: 0
+Endereço Virtual: 22378  Endereço Físico: 17514 Conteúdo: 21
+Endereço Virtual: 39304  Endereço Físico: 5768 Conteúdo: 0
+Endereço Virtual: 11171  Endereço Físico: 15779 Conteúdo: -24
+Endereço Virtual: 8079  Endereço Físico: 1935 Conteúdo: -29
+Endereço Virtual: 52879  Endereço Físico: 27023 Conteúdo: -93
+Endereço Virtual: 5123  Endereço Físico: 1539 Conteúdo: 0
+Endereço Virtual: 4356  Endereço Físico: 4356 Conteúdo: 0
+Endereço Virtual: 45745  Endereço Físico: 4273 Conteúdo: 0
+Endereço Virtual: 32952  Endereço Físico: 22712 Conteúdo: 0
+Endereço Virtual: 4657  Endereço Físico: 18225 Conteúdo: 0
+Endereço Virtual: 24142  Endereço Físico: 23374 Conteúdo: 23
+Endereço Virtual: 23319  Endereço Físico: 3607 Conteúdo: -59
+Endereço Virtual: 13607  Endereço Físico: 11559 Conteúdo: 73
+Endereço Virtual: 46304  Endereço Físico: 17376 Conteúdo: 0
+Endereço Virtual: 17677  Endereço Físico: 32525 Conteúdo: 0
+Endereço Virtual: 59691  Endereço Físico: 24619 Conteúdo: 74
+Endereço Virtual: 50967  Endereço Físico: 14871 Conteúdo: -59
+Endereço Virtual: 7817  Endereço Físico: 31625 Conteúdo: 0
+Endereço Virtual: 8545  Endereço Físico: 22881 Conteúdo: 0
+Endereço Virtual: 55297  Endereço Físico: 32001 Conteúdo: 0
+Endereço Virtual: 52954  Endereço Físico: 27098 Conteúdo: 51
+Endereço Virtual: 39720  Endereço Físico: 5160 Conteúdo: 0
+Endereço Virtual: 18455  Endereço Físico: 6167 Conteúdo: 5
+Endereço Virtual: 30349  Endereço Físico: 6541 Conteúdo: 0
+Endereço Virtual: 63270  Endereço Físico: 28966 Conteúdo: 61
+Endereço Virtual: 27156  Endereço Físico: 29460 Conteúdo: 0
+Endereço Virtual: 20614  Endereço Físico: 1414 Conteúdo: 20
+Endereço Virtual: 19372  Endereço Físico: 7084 Conteúdo: 0
+Endereço Virtual: 48689  Endereço Físico: 7473 Conteúdo: 0
+Endereço Virtual: 49386  Endereço Físico: 27882 Conteúdo: 48
+Endereço Virtual: 50584  Endereço Físico: 7832 Conteúdo: 0
+Endereço Virtual: 51936  Endereço Físico: 30688 Conteúdo: 0
+Endereço Virtual: 34705  Endereço Físico: 16529 Conteúdo: 0
+Endereço Virtual: 13653  Endereço Físico: 11605 Conteúdo: 0
+Endereço Virtual: 50077  Endereço Físico: 15517 Conteúdo: 0
+Endereço Virtual: 54518  Endereço Físico: 14070 Conteúdo: 53
+Endereço Virtual: 41482  Endereço Físico: 17674 Conteúdo: 40
+Endereço Virtual: 4169  Endereço Físico: 30281 Conteúdo: 0
+Endereço Virtual: 36118  Endereço Físico: 2582 Conteúdo: 35
+Endereço Virtual: 9584  Endereço Físico: 112 Conteúdo: 0
+Endereço Virtual: 18490  Endereço Físico: 6202 Conteúdo: 18
+Endereço Virtual: 55420  Endereço Físico: 32124 Conteúdo: 0
+Endereço Virtual: 5708  Endereço Físico: 18508 Conteúdo: 0
+Endereço Virtual: 23506  Endereço Físico: 3794 Conteúdo: 22
+Endereço Virtual: 15391  Endereço Físico: 9759 Conteúdo: 7
+Endereço Virtual: 36368  Endereço Físico: 14352 Conteúdo: 0
+Endereço Virtual: 38976  Endereço Físico: 9280 Conteúdo: 0
+Endereço Virtual: 50406  Endereço Físico: 11494 Conteúdo: 49
+Endereço Virtual: 49236  Endereço Físico: 27732 Conteúdo: 0
+Endereço Virtual: 65035  Endereço Físico: 523 Conteúdo: -126
+Endereço Virtual: 30120  Endereço Físico: 10152 Conteúdo: 0
+Endereço Virtual: 62551  Endereço Físico: 27223 Conteúdo: 21
+Endereço Virtual: 46809  Endereço Físico: 19161 Conteúdo: 0
+Endereço Virtual: 21687  Endereço Físico: 9655 Conteúdo: 45
+Endereço Virtual: 53839  Endereço Físico: 3919 Conteúdo: -109
+Endereço Virtual: 2098  Endereço Físico: 13106 Conteúdo: 2
+Endereço Virtual: 12364  Endereço Físico: 32332 Conteúdo: 0
+Endereço Virtual: 45366  Endereço Físico: 23094 Conteúdo: 44
+Endereço Virtual: 50437  Endereço Físico: 7685 Conteúdo: 0
+Endereço Virtual: 36675  Endereço Físico: 31299 Conteúdo: -48
+Endereço Virtual: 55382  Endereço Físico: 32086 Conteúdo: 54
+Endereço Virtual: 11846  Endereço Físico: 12102 Conteúdo: 11
+Endereço Virtual: 49127  Endereço Físico: 1255 Conteúdo: -7
+Endereço Virtual: 19900  Endereço Físico: 21436 Conteúdo: 0
+Endereço Virtual: 20554  Endereço Físico: 1354 Conteúdo: 20
+Endereço Virtual: 19219  Endereço Físico: 6931 Conteúdo: -60
+Endereço Virtual: 51483  Endereço Físico: 10779 Conteúdo: 70
+Endereço Virtual: 58090  Endereço Físico: 26858 Conteúdo: 56
+Endereço Virtual: 39074  Endereço Físico: 9378 Conteúdo: 38
+Endereço Virtual: 16060  Endereço Físico: 9148 Conteúdo: 0
+Endereço Virtual: 10447  Endereço Físico: 13007 Conteúdo: 51
+Endereço Virtual: 54169  Endereço Físico: 13465 Conteúdo: 0
+Endereço Virtual: 20634  Endereço Físico: 1434 Conteúdo: 20
+Endereço Virtual: 57555  Endereço Físico: 13779 Conteúdo: 52
+Endereço Virtual: 61210  Endereço Físico: 27930 Conteúdo: 59
+Endereço Virtual: 269  Endereço Físico: 14605 Conteúdo: 0
+Endereço Virtual: 33154  Endereço Físico: 16258 Conteúdo: 32
+Endereço Virtual: 64487  Endereço Físico: 12519 Conteúdo: -7
+Endereço Virtual: 61223  Endereço Físico: 27943 Conteúdo: -55
+Endereço Virtual: 47292  Endereço Físico: 28860 Conteúdo: 0
+Endereço Virtual: 21852  Endereço Físico: 31836 Conteúdo: 0
+Endereço Virtual: 5281  Endereço Físico: 1697 Conteúdo: 0
+Endereço Virtual: 45912  Endereço Físico: 5976 Conteúdo: 0
+Endereço Virtual: 32532  Endereço Físico: 14100 Conteúdo: 0
+Endereço Virtual: 63067  Endereço Físico: 10331 Conteúdo: -106
+Endereço Virtual: 41683  Endereço Físico: 17875 Conteúdo: -76
+Endereço Virtual: 20981  Endereço Físico: 15349 Conteúdo: 0
+Endereço Virtual: 33881  Endereço Físico: 19801 Conteúdo: 0
+Endereço Virtual: 41785  Endereço Físico: 20537 Conteúdo: 0
+Endereço Virtual: 4580  Endereço Físico: 4580 Conteúdo: 0
+Endereço Virtual: 41389  Endereço Físico: 16045 Conteúdo: 0
+Endereço Virtual: 28572  Endereço Físico: 31132 Conteúdo: 0
+Endereço Virtual: 782  Endereço Físico: 16654 Conteúdo: 0
+Endereço Virtual: 30273  Endereço Físico: 6465 Conteúdo: 0
+Endereço Virtual: 62267  Endereço Físico: 23867 Conteúdo: -50
+Endereço Virtual: 17922  Endereço Físico: 26114 Conteúdo: 17
+Endereço Virtual: 63238  Endereço Físico: 28934 Conteúdo: 61
+Endereço Virtual: 3308  Endereço Físico: 3564 Conteúdo: 0
+Endereço Virtual: 26545  Endereço Físico: 18865 Conteúdo: 0
+Endereço Virtual: 44395  Endereço Físico: 28523 Conteúdo: 90
+Endereço Virtual: 39120  Endereço Físico: 9424 Conteúdo: 0
+Endereço Virtual: 21706  Endereço Físico: 9674 Conteúdo: 21
+Endereço Virtual: 7144  Endereço Físico: 24296 Conteúdo: 0
+Endereço Virtual: 30244  Endereço Físico: 6436 Conteúdo: 0
+Endereço Virtual: 3725  Endereço Físico: 25997 Conteúdo: 0
+Endereço Virtual: 54632  Endereço Físico: 17000 Conteúdo: 0
+Endereço Virtual: 30574  Endereço Físico: 10606 Conteúdo: 29
+Endereço Virtual: 8473  Endereço Físico: 22809 Conteúdo: 0
+Endereço Virtual: 12386  Endereço Físico: 32354 Conteúdo: 12
+Endereço Virtual: 41114  Endereço Físico: 3226 Conteúdo: 40
+Endereço Virtual: 57930  Endereço Físico: 26698 Conteúdo: 56
+Endereço Virtual: 15341  Endereço Físico: 5101 Conteúdo: 0
+Endereço Virtual: 15598  Endereço Físico: 9966 Conteúdo: 15
+Endereço Virtual: 59922  Endereço Físico: 21010 Conteúdo: 58
+Endereço Virtual: 18226  Endereço Físico: 306 Conteúdo: 17
+Endereço Virtual: 48162  Endereço Físico: 2338 Conteúdo: 47
+Endereço Virtual: 41250  Endereço Físico: 15906 Conteúdo: 40
+Endereço Virtual: 1512  Endereço Físico: 8168 Conteúdo: 0
+Endereço Virtual: 2546  Endereço Físico: 24562 Conteúdo: 2
+Endereço Virtual: 41682  Endereço Físico: 17874 Conteúdo: 40
+Endereço Virtual: 322  Endereço Físico: 14658 Conteúdo: 0
+Endereço Virtual: 880  Endereço Físico: 16752 Conteúdo: 0
+Endereço Virtual: 20891  Endereço Físico: 15259 Conteúdo: 102
+Endereço Virtual: 56604  Endereço Físico: 19996 Conteúdo: 0
+Endereço Virtual: 40166  Endereço Físico: 29926 Conteúdo: 39
+Endereço Virtual: 26791  Endereço Físico: 11943 Conteúdo: 41
+Endereço Virtual: 44560  Endereço Físico: 8720 Conteúdo: 0
+Endereço Virtual: 38698  Endereço Físico: 25642 Conteúdo: 37
+Endereço Virtual: 64127  Endereço Físico: 4735 Conteúdo: -97
+Endereço Virtual: 15028  Endereço Físico: 8372 Conteúdo: 0
+Endereço Virtual: 38669  Endereço Físico: 25613 Conteúdo: 0
+Endereço Virtual: 45637  Endereço Físico: 4165 Conteúdo: 0
+Endereço Virtual: 43151  Endereço Físico: 19599 Conteúdo: 35
+Endereço Virtual: 9465  Endereço Físico: 11257 Conteúdo: 0
+Endereço Virtual: 2498  Endereço Físico: 24514 Conteúdo: 2
+Endereço Virtual: 13978  Endereço Físico: 21658 Conteúdo: 13
+Endereço Virtual: 16326  Endereço Físico: 8646 Conteúdo: 15
+Endereço Virtual: 51442  Endereço Físico: 22258 Conteúdo: 50
+Endereço Virtual: 34845  Endereço Físico: 5405 Conteúdo: 0
+Endereço Virtual: 63667  Endereço Físico: 25011 Conteúdo: 44
+Endereço Virtual: 39370  Endereço Físico: 5834 Conteúdo: 38
+Endereço Virtual: 55671  Endereço Físico: 12663 Conteúdo: 93
+Endereço Virtual: 64496  Endereço Físico: 12528 Conteúdo: 0
+Endereço Virtual: 7767  Endereço Físico: 31575 Conteúdo: -107
+Endereço Virtual: 6283  Endereço Físico: 21899 Conteúdo: 34
+Endereço Virtual: 55884  Endereço Físico: 23628 Conteúdo: 0
+Endereço Virtual: 61103  Endereço Físico: 30127 Conteúdo: -85
+Endereço Virtual: 10184  Endereço Físico: 27592 Conteúdo: 0
+Endereço Virtual: 39543  Endereço Físico: 28279 Conteúdo: -99
+Endereço Virtual: 9555  Endereço Físico: 83 Conteúdo: 84
+Endereço Virtual: 13963  Endereço Físico: 21643 Conteúdo: -94
+Endereço Virtual: 58975  Endereço Físico: 19295 Conteúdo: -105
+Endereço Virtual: 19537  Endereço Físico: 7249 Conteúdo: 0
+Endereço Virtual: 6101  Endereço Físico: 22485 Conteúdo: 0
+Endereço Virtual: 41421  Endereço Físico: 16077 Conteúdo: 0
+Endereço Virtual: 45502  Endereço Físico: 23230 Conteúdo: 44
+Endereço Virtual: 29328  Endereço Físico: 2192 Conteúdo: 0
+Endereço Virtual: 8149  Endereço Físico: 2005 Conteúdo: 0
+Endereço Virtual: 25450  Endereço Físico: 29290 Conteúdo: 24
+Endereço Virtual: 58944  Endereço Físico: 19264 Conteúdo: 0
+Endereço Virtual: 50666  Endereço Físico: 7914 Conteúdo: 49
+Endereço Virtual: 23084  Endereço Físico: 6700 Conteúdo: 0
+Endereço Virtual: 36468  Endereço Físico: 14452 Conteúdo: 0
+Endereço Virtual: 33645  Endereço Físico: 26477 Conteúdo: 0
+Endereço Virtual: 25002  Endereço Físico: 20906 Conteúdo: 24
+Endereço Virtual: 53715  Endereço Físico: 30931 Conteúdo: 116
+Endereço Virtual: 60173  Endereço Físico: 17933 Conteúdo: 0
+Endereço Virtual: 46354  Endereço Físico: 20242 Conteúdo: 45
+Endereço Virtual: 4708  Endereço Físico: 18276 Conteúdo: 0
+Endereço Virtual: 28208  Endereço Físico: 816 Conteúdo: 0
+Endereço Virtual: 58844  Endereço Físico: 3036 Conteúdo: 0
+Endereço Virtual: 22173  Endereço Físico: 25501 Conteúdo: 0
+Endereço Virtual: 8535  Endereço Físico: 22871 Conteúdo: 85
+Endereço Virtual: 42261  Endereço Físico: 25109 Conteúdo: 0
+Endereço Virtual: 29687  Endereço Físico: 17655 Conteúdo: -3
+Endereço Virtual: 37799  Endereço Físico: 15783 Conteúdo: -23
+Endereço Virtual: 22566  Endereço Físico: 22566 Conteúdo: 22
+Endereço Virtual: 62520  Endereço Físico: 27192 Conteúdo: 0
+Endereço Virtual: 4098  Endereço Físico: 30210 Conteúdo: 4
+Endereço Virtual: 47999  Endereço Físico: 23423 Conteúdo: -33
+Endereço Virtual: 49660  Endereço Físico: 17404 Conteúdo: 0
+Endereço Virtual: 37063  Endereço Físico: 32711 Conteúdo: 49
+Endereço Virtual: 41856  Endereço Físico: 20608 Conteúdo: 0
+Endereço Virtual: 5417  Endereço Físico: 24617 Conteúdo: 0
+Endereço Virtual: 48856  Endereço Físico: 7640 Conteúdo: 0
+Endereço Virtual: 10682  Endereço Físico: 15034 Conteúdo: 10
+Endereço Virtual: 22370  Endereço Físico: 26978 Conteúdo: 21
+Endereço Virtual: 63281  Endereço Físico: 28977 Conteúdo: 0
+Endereço Virtual: 62452  Endereço Físico: 24052 Conteúdo: 0
+Endereço Virtual: 50532  Endereço Físico: 7780 Conteúdo: 0
+Endereço Virtual: 9022  Endereço Físico: 5182 Conteúdo: 8
+Endereço Virtual: 59300  Endereço Físico: 29604 Conteúdo: 0
+Endereço Virtual: 58660  Endereço Físico: 2852 Conteúdo: 0
+Endereço Virtual: 56401  Endereço Físico: 30545 Conteúdo: 0
+Endereço Virtual: 8518  Endereço Físico: 22854 Conteúdo: 8
+Endereço Virtual: 63066  Endereço Físico: 10330 Conteúdo: 61
+Endereço Virtual: 63250  Endereço Físico: 28946 Conteúdo: 61
+Endereço Virtual: 48592  Endereço Físico: 16592 Conteúdo: 0
+Endereço Virtual: 28771  Endereço Físico: 11619 Conteúdo: 24
+Endereço Virtual: 37673  Endereço Físico: 15657 Conteúdo: 0
+Endereço Virtual: 60776  Endereço Físico: 15464 Conteúdo: 0
+Endereço Virtual: 56438  Endereço Físico: 30582 Conteúdo: 55
+Endereço Virtual: 60424  Endereço Físico: 13832 Conteúdo: 0
+Endereço Virtual: 39993  Endereço Físico: 29753 Conteúdo: 0
+Endereço Virtual: 56004  Endereço Físico: 23748 Conteúdo: 0
+Endereço Virtual: 59002  Endereço Físico: 19322 Conteúdo: 57
+Endereço Virtual: 33982  Endereço Físico: 19902 Conteúdo: 33
+Endereço Virtual: 25498  Endereço Físico: 29338 Conteúdo: 24
+Endereço Virtual: 57047  Endereço Físico: 2775 Conteúdo: -75
+Endereço Virtual: 1401  Endereço Físico: 8057 Conteúdo: 0
+Endereço Virtual: 15130  Endereço Físico: 4890 Conteúdo: 14
+Endereço Virtual: 42960  Endereço Físico: 6352 Conteúdo: 0
+Endereço Virtual: 61827  Endereço Físico: 18563 Conteúdo: 96
+Endereço Virtual: 32442  Endereço Físico: 3770 Conteúdo: 31
+Endereço Virtual: 64304  Endereço Físico: 12336 Conteúdo: 0
+Endereço Virtual: 30273  Endereço Físico: 6465 Conteúdo: 0
+Endereço Virtual: 38082  Endereço Físico: 11458 Conteúdo: 37
+Endereço Virtual: 22404  Endereço Físico: 27012 Conteúdo: 0
+Endereço Virtual: 3808  Endereço Físico: 26080 Conteúdo: 0
+Endereço Virtual: 16883  Endereço Físico: 27891 Conteúdo: 124
+Endereço Virtual: 23111  Endereço Físico: 6727 Conteúdo: -111
+Endereço Virtual: 62417  Endereço Físico: 24017 Conteúdo: 0
+Endereço Virtual: 60364  Endereço Físico: 18124 Conteúdo: 0
+Endereço Virtual: 4542  Endereço Físico: 4542 Conteúdo: 4
+Endereço Virtual: 14829  Endereço Físico: 749 Conteúdo: 0
+Endereço Virtual: 44964  Endereço Físico: 10148 Conteúdo: 0
+Endereço Virtual: 33924  Endereço Físico: 19844 Conteúdo: 0
+Endereço Virtual: 2141  Endereço Físico: 13149 Conteúdo: 0
+Endereço Virtual: 19245  Endereço Físico: 6957 Conteúdo: 0
+Endereço Virtual: 47168  Endereço Físico: 28736 Conteúdo: 0
+Endereço Virtual: 24048  Endereço Físico: 19184 Conteúdo: 0
+Endereço Virtual: 1022  Endereço Físico: 16894 Conteúdo: 0
+Endereço Virtual: 23075  Endereço Físico: 6691 Conteúdo: -120
+Endereço Virtual: 24888  Endereço Físico: 20792 Conteúdo: 0
+Endereço Virtual: 49247  Endereço Físico: 3935 Conteúdo: 23
+Endereço Virtual: 4900  Endereço Físico: 31268 Conteúdo: 0
+Endereço Virtual: 22656  Endereço Físico: 22656 Conteúdo: 0
+Endereço Virtual: 34117  Endereço Físico: 32069 Conteúdo: 0
+Endereço Virtual: 55555  Endereço Físico: 12547 Conteúdo: 64
+Endereço Virtual: 48947  Endereço Físico: 1075 Conteúdo: -52
+Endereço Virtual: 59533  Endereço Físico: 12173 Conteúdo: 0
+Endereço Virtual: 21312  Endereço Físico: 21312 Conteúdo: 0
+Endereço Virtual: 21415  Endereço Físico: 21415 Conteúdo: -23
+Endereço Virtual: 813  Endereço Físico: 16685 Conteúdo: 0
+Endereço Virtual: 19419  Endereço Físico: 7131 Conteúdo: -10
+Endereço Virtual: 1999  Endereço Físico: 10959 Conteúdo: -13
+Endereço Virtual: 20155  Endereço Físico: 9147 Conteúdo: -82
+Endereço Virtual: 21521  Endereço Físico: 9489 Conteúdo: 0
+Endereço Virtual: 13670  Endereço Físico: 12902 Conteúdo: 13
+Endereço Virtual: 19289  Endereço Físico: 7001 Conteúdo: 0
+Endereço Virtual: 58483  Endereço Físico: 13427 Conteúdo: 28
+Endereço Virtual: 41318  Endereço Físico: 15974 Conteúdo: 40
+Endereço Virtual: 16151  Endereço Físico: 8471 Conteúdo: -59
+Endereço Virtual: 13611  Endereço Físico: 12843 Conteúdo: 74
+Endereço Virtual: 21514  Endereço Físico: 9482 Conteúdo: 21
+Endereço Virtual: 13499  Endereço Físico: 1467 Conteúdo: 46
+Endereço Virtual: 45583  Endereço Físico: 4111 Conteúdo: -125
+Endereço Virtual: 49013  Endereço Físico: 1141 Conteúdo: 0
+Endereço Virtual: 64843  Endereço Físico: 13643 Conteúdo: 82
+Endereço Virtual: 63485  Endereço Físico: 29181 Conteúdo: 0
+Endereço Virtual: 38697  Endereço Físico: 25641 Conteúdo: 0
+Endereço Virtual: 59188  Endereço Físico: 29492 Conteúdo: 0
+Endereço Virtual: 24593  Endereço Físico: 16145 Conteúdo: 0
+Endereço Virtual: 57641  Endereço Físico: 27945 Conteúdo: 0
+Endereço Virtual: 36524  Endereço Físico: 14508 Conteúdo: 0
+Endereço Virtual: 56980  Endereço Físico: 2708 Conteúdo: 0
+Endereço Virtual: 36810  Endereço Físico: 31946 Conteúdo: 35
+Endereço Virtual: 6096  Endereço Físico: 22480 Conteúdo: 0
+Endereço Virtual: 11070  Endereço Físico: 1598 Conteúdo: 10
+Endereço Virtual: 60124  Endereço Físico: 21212 Conteúdo: 0
+Endereço Virtual: 37576  Endereço Físico: 6088 Conteúdo: 0
+Endereço Virtual: 15096  Endereço Físico: 8440 Conteúdo: 0
+Endereço Virtual: 45247  Endereço Físico: 14271 Conteúdo: 47
+Endereço Virtual: 32783  Endereço Físico: 30991 Conteúdo: 3
+Endereço Virtual: 58390  Endereço Físico: 13334 Conteúdo: 57
+Endereço Virtual: 60873  Endereço Físico: 15561 Conteúdo: 0
+Endereço Virtual: 23719  Endereço Físico: 26279 Conteúdo: 41
+Endereço Virtual: 24385  Endereço Físico: 3393 Conteúdo: 0
+Endereço Virtual: 22307  Endereço Físico: 26915 Conteúdo: -56
+Endereço Virtual: 17375  Endereço Físico: 18911 Conteúdo: -9
+Endereço Virtual: 15990  Endereço Físico: 28534 Conteúdo: 15
+Endereço Virtual: 20526  Endereço Físico: 9262 Conteúdo: 20
+Endereço Virtual: 25904  Endereço Físico: 24112 Conteúdo: 0
+Endereço Virtual: 42224  Endereço Físico: 17136 Conteúdo: 0
+Endereço Virtual: 9311  Endereço Físico: 11103 Conteúdo: 23
+Endereço Virtual: 7862  Endereço Físico: 31670 Conteúdo: 7
+Endereço Virtual: 3835  Endereço Físico: 26107 Conteúdo: -66
+Endereço Virtual: 30535  Endereço Físico: 10567 Conteúdo: -47
+Endereço Virtual: 65179  Endereço Físico: 32411 Conteúdo: -90
+Endereço Virtual: 57387  Endereço Físico: 3115 Conteúdo: 10
+Endereço Virtual: 63579  Endereço Físico: 24923 Conteúdo: 22
+Endereço Virtual: 4946  Endereço Físico: 31314 Conteúdo: 4
+Endereço Virtual: 9037  Endereço Físico: 5197 Conteúdo: 0
+Endereço Virtual: 61033  Endereço Físico: 30057 Conteúdo: 0
+Endereço Virtual: 55543  Endereço Físico: 26871 Conteúdo: 61
+Endereço Virtual: 50361  Endereço Físico: 9913 Conteúdo: 0
+Endereço Virtual: 6480  Endereço Físico: 336 Conteúdo: 0
+Endereço Virtual: 14042  Endereço Físico: 21722 Conteúdo: 13
+Endereço Virtual: 21531  Endereço Físico: 9499 Conteúdo: 6
+Endereço Virtual: 39195  Endereço Físico: 5659 Conteúdo: 70
+Endereço Virtual: 37511  Endereço Físico: 6023 Conteúdo: -95
+Endereço Virtual: 23696  Endereço Físico: 26256 Conteúdo: 0
+Endereço Virtual: 27440  Endereço Físico: 2352 Conteúdo: 0
+Endereço Virtual: 28201  Endereço Físico: 809 Conteúdo: 0
+Endereço Virtual: 23072  Endereço Físico: 6688 Conteúdo: 0
+Endereço Virtual: 7814  Endereço Físico: 31622 Conteúdo: 7
+Endereço Virtual: 6552  Endereço Físico: 408 Conteúdo: 0
+Endereço Virtual: 43637  Endereço Físico: 17781 Conteúdo: 0
+Endereço Virtual: 35113  Endereço Físico: 14633 Conteúdo: 0
+Endereço Virtual: 34890  Endereço Físico: 5450 Conteúdo: 34
+Endereço Virtual: 61297  Endereço Físico: 15217 Conteúdo: 0
+Endereço Virtual: 45633  Endereço Físico: 4161 Conteúdo: 0
+Endereço Virtual: 61431  Endereço Físico: 15351 Conteúdo: -3
+Endereço Virtual: 46032  Endereço Físico: 20176 Conteúdo: 0
+Endereço Virtual: 18774  Endereço Físico: 11862 Conteúdo: 18
+Endereço Virtual: 62991  Endereço Físico: 10255 Conteúdo: -125
+Endereço Virtual: 28059  Endereço Físico: 8859 Conteúdo: 102
+Endereço Virtual: 35229  Endereço Físico: 14749 Conteúdo: 0
+Endereço Virtual: 51230  Endereço Físico: 22046 Conteúdo: 50
+Endereço Virtual: 14405  Endereço Físico: 4677 Conteúdo: 0
+Endereço Virtual: 52242  Endereço Físico: 19474 Conteúdo: 51
+Endereço Virtual: 43153  Endereço Físico: 24465 Conteúdo: 0
+Endereço Virtual: 2709  Endereço Físico: 21909 Conteúdo: 0
+Endereço Virtual: 47963  Endereço Físico: 23387 Conteúdo: -42
+Endereço Virtual: 36943  Endereço Físico: 32591 Conteúdo: 19
+Endereço Virtual: 54066  Endereço Físico: 27442 Conteúdo: 52
+Endereço Virtual: 10054  Endereço Físico: 28230 Conteúdo: 9
+Endereço Virtual: 43051  Endereço Físico: 24363 Conteúdo: 10
+Endereço Virtual: 11525  Endereço Físico: 5 Conteúdo: 0
+Endereço Virtual: 17684  Endereço Físico: 7188 Conteúdo: 0
+Endereço Virtual: 41681  Endereço Físico: 23249 Conteúdo: 0
+Endereço Virtual: 27883  Endereço Físico: 2283 Conteúdo: 58
+Endereço Virtual: 56909  Endereço Físico: 2637 Conteúdo: 0
+Endereço Virtual: 45772  Endereço Físico: 4300 Conteúdo: 0
+Endereço Virtual: 27496  Endereço Físico: 2408 Conteúdo: 0
+Endereço Virtual: 46842  Endereço Físico: 2042 Conteúdo: 45
+Endereço Virtual: 38734  Endereço Físico: 25678 Conteúdo: 37
+Endereço Virtual: 28972  Endereço Físico: 26412 Conteúdo: 0
+Endereço Virtual: 59684  Endereço Físico: 30756 Conteúdo: 0
+Endereço Virtual: 11384  Endereço Físico: 20344 Conteúdo: 0
+Endereço Virtual: 21018  Endereço Físico: 18202 Conteúdo: 20
+Endereço Virtual: 2192  Endereço Físico: 13200 Conteúdo: 0
+Endereço Virtual: 18384  Endereço Físico: 25552 Conteúdo: 0
+Endereço Virtual: 13464  Endereço Físico: 1432 Conteúdo: 0
+Endereço Virtual: 31018  Endereço Físico: 25130 Conteúdo: 30
+Endereço Virtual: 62958  Endereço Físico: 17646 Conteúdo: 61
+Endereço Virtual: 30611  Endereço Físico: 10643 Conteúdo: -28
+Endereço Virtual: 1913  Endereço Físico: 10873 Conteúdo: 0
+Endereço Virtual: 18904  Endereço Físico: 11992 Conteúdo: 0
+Endereço Virtual: 26773  Endereço Físico: 27285 Conteúdo: 0
+Endereço Virtual: 55491  Endereço Físico: 26819 Conteúdo: 48
+Endereço Virtual: 21899  Endereço Físico: 30347 Conteúdo: 98
+Endereço Virtual: 64413  Endereço Físico: 12445 Conteúdo: 0
+Endereço Virtual: 47134  Endereço Físico: 28702 Conteúdo: 46
+Endereço Virtual: 23172  Endereço Físico: 6788 Conteúdo: 0
+Endereço Virtual: 7262  Endereço Físico: 17246 Conteúdo: 7
+Endereço Virtual: 12705  Endereço Físico: 20641 Conteúdo: 0
+Endereço Virtual: 7522  Endereço Físico: 24674 Conteúdo: 7
+Endereço Virtual: 58815  Endereço Físico: 3007 Conteúdo: 111
+Endereço Virtual: 34916  Endereço Físico: 5476 Conteúdo: 0
+Endereço Virtual: 3802  Endereço Físico: 26074 Conteúdo: 3
+Endereço Virtual: 58008  Endereço Físico: 7576 Conteúdo: 0
+Endereço Virtual: 1239  Endereço Físico: 15063 Conteúdo: 53
+Endereço Virtual: 63947  Endereço Físico: 7883 Conteúdo: 114
+Endereço Virtual: 381  Endereço Físico: 22909 Conteúdo: 0
+Endereço Virtual: 60734  Endereço Físico: 15422 Conteúdo: 59
+Endereço Virtual: 48769  Endereço Físico: 16513 Conteúdo: 0
+Endereço Virtual: 41938  Endereço Físico: 11730 Conteúdo: 40
+Endereço Virtual: 38025  Endereço Físico: 11401 Conteúdo: 0
+Endereço Virtual: 55099  Endereço Físico: 15675 Conteúdo: -50
+Endereço Virtual: 56691  Endereço Físico: 30579 Conteúdo: 92
+Endereço Virtual: 39530  Endereço Físico: 13930 Conteúdo: 38
+Endereço Virtual: 59003  Endereço Físico: 19323 Conteúdo: -98
+Endereço Virtual: 6029  Endereço Físico: 22413 Conteúdo: 0
+Endereço Virtual: 20920  Endereço Físico: 29880 Conteúdo: 0
+Endereço Virtual: 8077  Endereço Físico: 23693 Conteúdo: 0
+Endereço Virtual: 42633  Endereço Físico: 29321 Conteúdo: 0
+Endereço Virtual: 17443  Endereço Físico: 7971 Conteúdo: 8
+Endereço Virtual: 53570  Endereço Físico: 4930 Conteúdo: 52
+Endereço Virtual: 22833  Endereço Físico: 6193 Conteúdo: 0
+Endereço Virtual: 3782  Endereço Físico: 26054 Conteúdo: 3
+Endereço Virtual: 47758  Endereço Físico: 18574 Conteúdo: 46
+Endereço Virtual: 22136  Endereço Físico: 3704 Conteúdo: 0
+Endereço Virtual: 22427  Endereço Físico: 27035 Conteúdo: -26
+Endereço Virtual: 23867  Endereço Físico: 19003 Conteúdo: 78
+Endereço Virtual: 59968  Endereço Físico: 21056 Conteúdo: 0
+Endereço Virtual: 62166  Endereço Físico: 6614 Conteúdo: 60
+Endereço Virtual: 6972  Endereço Físico: 27708 Conteúdo: 0
+Endereço Virtual: 63684  Endereço Físico: 25028 Conteúdo: 0
+Endereço Virtual: 46388  Endereço Físico: 23860 Conteúdo: 0
+Endereço Virtual: 41942  Endereço Físico: 11734 Conteúdo: 40
+Endereço Virtual: 36524  Endereço Físico: 14508 Conteúdo: 0
+Endereço Virtual: 9323  Endereço Físico: 11115 Conteúdo: 26
+Endereço Virtual: 31114  Endereço Físico: 25226 Conteúdo: 30
+Endereço Virtual: 22345  Endereço Físico: 26953 Conteúdo: 0
+Endereço Virtual: 46463  Endereço Físico: 23935 Conteúdo: 95
+Endereço Virtual: 54671  Endereço Físico: 18063 Conteúdo: 99
+Endereço Virtual: 9214  Endereço Físico: 5374 Conteúdo: 8
+Endereço Virtual: 7257  Endereço Físico: 17241 Conteúdo: 0
+Endereço Virtual: 33150  Endereço Físico: 4478 Conteúdo: 32
+Endereço Virtual: 41565  Endereço Físico: 23133 Conteúdo: 0
+Endereço Virtual: 26214  Endereço Físico: 614 Conteúdo: 25
+Endereço Virtual: 3595  Endereço Físico: 25867 Conteúdo: -126
+Endereço Virtual: 17932  Endereço Físico: 9996 Conteúdo: 0
+Endereço Virtual: 34660  Endereço Físico: 19812 Conteúdo: 0
+Endereço Virtual: 51961  Endereço Físico: 20985 Conteúdo: 0
+Endereço Virtual: 58634  Endereço Físico: 2826 Conteúdo: 57
+Endereço Virtual: 57990  Endereço Físico: 7558 Conteúdo: 56
+Endereço Virtual: 28848  Endereço Físico: 4016 Conteúdo: 0
+Endereço Virtual: 49920  Endereço Físico: 22528 Conteúdo: 0
+Endereço Virtual: 18351  Endereço Físico: 25519 Conteúdo: -21
+Endereço Virtual: 53669  Endereço Físico: 5029 Conteúdo: 0
+Endereço Virtual: 33996  Endereço Físico: 32204 Conteúdo: 0
+Endereço Virtual: 6741  Endereço Físico: 12629 Conteúdo: 0
+Endereço Virtual: 64098  Endereço Físico: 12130 Conteúdo: 62
+Endereço Virtual: 606  Endereço Físico: 21342 Conteúdo: 0
+Endereço Virtual: 27383  Endereço Físico: 16887 Conteúdo: -67
+Endereço Virtual: 63140  Endereço Físico: 10404 Conteúdo: 0
+Endereço Virtual: 32228  Endereço Físico: 9188 Conteúdo: 0
+Endereço Virtual: 63437  Endereço Físico: 29133 Conteúdo: 0
+Endereço Virtual: 29085  Endereço Físico: 26525 Conteúdo: 0
+Endereço Virtual: 65080  Endereço Físico: 32312 Conteúdo: 0
+Endereço Virtual: 38753  Endereço Físico: 25697 Conteúdo: 0
+Endereço Virtual: 16041  Endereço Físico: 28585 Conteúdo: 0
+Endereço Virtual: 9041  Endereço Físico: 5201 Conteúdo: 0
+Endereço Virtual: 42090  Endereço Físico: 17002 Conteúdo: 41
+Endereço Virtual: 46388  Endereço Físico: 23860 Conteúdo: 0
+Endereço Virtual: 63650  Endereço Físico: 24994 Conteúdo: 62
+Endereço Virtual: 36636  Endereço Físico: 31772 Conteúdo: 0
+Endereço Virtual: 21947  Endereço Físico: 30395 Conteúdo: 110
+Endereço Virtual: 19833  Endereço Físico: 7033 Conteúdo: 0
+Endereço Virtual: 36464  Endereço Físico: 14448 Conteúdo: 0
+Endereço Virtual: 8541  Endereço Físico: 15965 Conteúdo: 0
+Endereço Virtual: 12712  Endereço Físico: 20648 Conteúdo: 0
+Endereço Virtual: 48955  Endereço Físico: 1083 Conteúdo: -50
+Endereço Virtual: 39206  Endereço Físico: 5670 Conteúdo: 38
+Endereço Virtual: 15578  Endereço Físico: 8666 Conteúdo: 15
+Endereço Virtual: 49205  Endereço Físico: 12853 Conteúdo: 0
+Endereço Virtual: 7731  Endereço Físico: 31539 Conteúdo: -116
+Endereço Virtual: 43046  Endereço Físico: 24358 Conteúdo: 42
+Endereço Virtual: 60498  Endereço Físico: 13650 Conteúdo: 59
+Endereço Virtual: 9237  Endereço Físico: 11029 Conteúdo: 0
+Endereço Virtual: 47706  Endereço Físico: 18522 Conteúdo: 46
+Endereço Virtual: 43973  Endereço Físico: 29637 Conteúdo: 0
+Endereço Virtual: 42008  Endereço Físico: 16920 Conteúdo: 0
+Endereço Virtual: 27460  Endereço Físico: 2372 Conteúdo: 0
+Endereço Virtual: 24999  Endereço Físico: 16295 Conteúdo: 105
+Endereço Virtual: 51933  Endereço Físico: 20957 Conteúdo: 0
+Endereço Virtual: 34070  Endereço Físico: 27926 Conteúdo: 33
+Endereço Virtual: 65155  Endereço Físico: 32387 Conteúdo: -96
+Endereço Virtual: 59955  Endereço Físico: 21043 Conteúdo: -116
+Endereço Virtual: 9277  Endereço Físico: 11069 Conteúdo: 0
+Endereço Virtual: 20420  Endereço Físico: 1732 Conteúdo: 0
+Endereço Virtual: 44860  Endereço Físico: 8252 Conteúdo: 0
+Endereço Virtual: 50992  Endereço Físico: 14128 Conteúdo: 0
+Endereço Virtual: 10583  Endereço Físico: 31063 Conteúdo: 85
+Endereço Virtual: 57751  Endereço Físico: 13463 Conteúdo: 101
+Endereço Virtual: 23195  Endereço Físico: 6811 Conteúdo: -90
+Endereço Virtual: 27227  Endereço Físico: 16731 Conteúdo: -106
+Endereço Virtual: 42816  Endereço Físico: 3392 Conteúdo: 0
+Endereço Virtual: 58219  Endereço Físico: 18795 Conteúdo: -38
+Endereço Virtual: 37606  Endereço Físico: 6118 Conteúdo: 36
+Endereço Virtual: 18426  Endereço Físico: 25594 Conteúdo: 17
+Endereço Virtual: 21238  Endereço Físico: 18422 Conteúdo: 20
+Endereço Virtual: 11983  Endereço Físico: 9423 Conteúdo: -77
+Endereço Virtual: 48394  Endereço Físico: 24074 Conteúdo: 47
+Endereço Virtual: 11036  Endereço Físico: 3100 Conteúdo: 0
+Endereço Virtual: 30557  Endereço Físico: 10589 Conteúdo: 0
+Endereço Virtual: 23453  Endereço Físico: 31389 Conteúdo: 0
+Endereço Virtual: 49847  Endereço Físico: 30135 Conteúdo: -83
+Endereço Virtual: 30032  Endereço Físico: 9808 Conteúdo: 0
+Endereço Virtual: 48065  Endereço Físico: 23489 Conteúdo: 0
+Endereço Virtual: 6957  Endereço Físico: 27693 Conteúdo: 0
+Endereço Virtual: 2301  Endereço Físico: 13309 Conteúdo: 0
+Endereço Virtual: 7736  Endereço Físico: 31544 Conteúdo: 0
+Endereço Virtual: 31260  Endereço Físico: 21532 Conteúdo: 0
+Endereço Virtual: 17071  Endereço Físico: 9647 Conteúdo: -85
+Endereço Virtual: 8940  Endereço Físico: 26348 Conteúdo: 0
+Endereço Virtual: 9929  Endereço Físico: 969 Conteúdo: 0
+Endereço Virtual: 45563  Endereço Físico: 507 Conteúdo: 126
+Endereço Virtual: 12107  Endereço Físico: 17739 Conteúdo: -46
+************
+Página - Quadro
+************
+189 - 94
+43 - 12
+119 - 41
+91 - 122
+194 - 117
+117 - 38
+187 - 91
+27 - 108
+8 - 51
+30 - 123
+122 - 84
+66 - 37
+34 - 102
+38 - 3
+177 - 1
+47 - 69
+###########
+Página - Quadro - Bit Validade
+###########
+0 - 11 - 0
+1 - 89 - 1
+2 - 83 - 1
+3 - 65 - 0
+4 - 58 - 1
+5 - 31 - 0
+6 - 82 - 0
+7 - 42 - 1
+8 - 51 - 1
+9 - 95 - 0
+10 - 85 - 1
+11 - 68 - 0
+12 - 13 - 0
+14 - 101 - 1
+15 - 74 - 0
+16 - 118 - 0
+17 - 17 - 0
+18 - 71 - 0
+19 - 122 - 0
+20 - 6 - 0
+21 - 96 - 0
+22 - 72 - 0
+23 - 87 - 1
+24 - 85 - 0
+25 - 1 - 0
+26 - 49 - 1
+27 - 108 - 1
+28 - 67 - 1
+29 - 96 - 1
+30 - 123 - 1
+31 - 92 - 1
+32 - 107 - 0
+33 - 62 - 1
+34 - 102 - 1
+35 - 20 - 1
+36 - 43 - 1
+37 - 0 - 0
+38 - 3 - 1
+39 - 110 - 1
+40 - 50 - 0
+41 - 121 - 1
+42 - 25 - 0
+43 - 12 - 1
+44 - 79 - 1
+45 - 0 - 1
+46 - 36 - 1
+47 - 69 - 1
+48 - 126 - 0
+49 - 80 - 1
+50 - 98 - 0
+51 - 87 - 0
+52 - 5 - 1
+53 - 50 - 0
+54 - 84 - 0
+56 - 18 - 1
+57 - 2 - 0
+58 - 32 - 0
+59 - 19 - 0
+60 - 33 - 1
+61 - 46 - 0
+62 - 111 - 1
+63 - 33 - 0
+64 - 43 - 0
+65 - 108 - 0
+66 - 37 - 1
+67 - 73 - 0
+68 - 31 - 1
+69 - 28 - 1
+70 - 39 - 1
+71 - 99 - 1
+72 - 24 - 0
+73 - 46 - 1
+75 - 27 - 0
+76 - 28 - 0
+77 - 27 - 1
+78 - 35 - 0
+79 - 6 - 1
+80 - 36 - 0
+81 - 116 - 1
+82 - 71 - 1
+83 - 83 - 0
+84 - 37 - 0
+85 - 118 - 1
+86 - 14 - 1
+87 - 105 - 1
+88 - 88 - 0
+89 - 24 - 1
+90 - 26 - 1
+91 - 122 - 1
+92 - 102 - 0
+93 - 74 - 1
+94 - 91 - 0
+95 - 13 - 0
+96 - 63 - 0
+97 - 63 - 1
+99 - 114 - 0
+101 - 94 - 0
+102 - 2 - 1
+103 - 73 - 0
+104 - 106 - 1
+105 - 26 - 0
+106 - 65 - 1
+107 - 9 - 1
+108 - 8 - 1
+109 - 34 - 1
+110 - 3 - 0
+111 - 121 - 0
+112 - 15 - 1
+113 - 103 - 1
+114 - 8 - 0
+115 - 68 - 0
+116 - 12 - 0
+117 - 38 - 1
+118 - 25 - 0
+119 - 41 - 1
+121 - 98 - 1
+122 - 84 - 1
+123 - 47 - 0
+125 - 35 - 1
+126 - 14 - 0
+127 - 55 - 0
+128 - 121 - 0
+129 - 17 - 1
+130 - 50 - 0
+131 - 103 - 0
+132 - 125 - 1
+133 - 109 - 1
+135 - 77 - 1
+136 - 21 - 1
+137 - 57 - 1
+138 - 49 - 0
+139 - 44 - 0
+141 - 10 - 0
+142 - 56 - 1
+143 - 124 - 1
+144 - 127 - 1
+146 - 23 - 1
+147 - 61 - 0
+148 - 44 - 1
+149 - 124 - 0
+151 - 100 - 1
+152 - 36 - 0
+153 - 22 - 1
+154 - 54 - 1
+155 - 20 - 0
+156 - 116 - 0
+158 - 52 - 0
+159 - 113 - 0
+160 - 12 - 0
+161 - 62 - 0
+162 - 90 - 1
+163 - 45 - 1
+164 - 66 - 1
+165 - 98 - 0
+166 - 114 - 1
+167 - 13 - 1
+168 - 95 - 1
+169 - 55 - 0
+170 - 69 - 0
+171 - 115 - 1
+172 - 50 - 0
+173 - 111 - 0
+174 - 34 - 0
+175 - 32 - 1
+176 - 55 - 0
+177 - 1 - 1
+178 - 16 - 1
+179 - 78 - 1
+180 - 67 - 0
+181 - 93 - 1
+182 - 7 - 1
+183 - 117 - 0
+184 - 112 - 1
+185 - 1 - 0
+186 - 72 - 1
+187 - 91 - 1
+188 - 9 - 0
+189 - 94 - 1
+190 - 64 - 1
+191 - 4 - 1
+192 - 50 - 1
+193 - 67 - 0
+194 - 117 - 1
+195 - 88 - 1
+196 - 38 - 0
+197 - 30 - 0
+198 - 111 - 0
+199 - 55 - 1
+200 - 86 - 1
+201 - 42 - 0
+202 - 81 - 1
+203 - 99 - 0
+204 - 76 - 1
+205 - 117 - 0
+206 - 105 - 0
+207 - 14 - 0
+208 - 23 - 0
+209 - 19 - 1
+210 - 15 - 0
+211 - 107 - 1
+212 - 54 - 0
+213 - 70 - 1
+214 - 29 - 0
+215 - 61 - 1
+216 - 104 - 1
+217 - 49 - 0
+218 - 92 - 0
+219 - 98 - 0
+220 - 119 - 0
+221 - 119 - 1
+222 - 10 - 1
+223 - 120 - 0
+224 - 12 - 0
+225 - 52 - 1
+226 - 29 - 1
+227 - 73 - 1
+228 - 52 - 0
+229 - 11 - 1
+230 - 75 - 1
+231 - 115 - 0
+232 - 47 - 0
+233 - 120 - 1
+234 - 82 - 1
+235 - 70 - 0
+236 - 53 - 1
+237 - 60 - 1
+238 - 117 - 0
+239 - 59 - 1
+240 - 121 - 0
+241 - 72 - 0
+242 - 25 - 1
+243 - 93 - 0
+244 - 106 - 0
+245 - 68 - 1
+246 - 40 - 1
+247 - 113 - 1
+248 - 97 - 1
+249 - 30 - 1
+250 - 47 - 1
+251 - 48 - 1
+252 - 24 - 0
+253 - 53 - 0
+254 - 126 - 1
+255 - 119 - 0
